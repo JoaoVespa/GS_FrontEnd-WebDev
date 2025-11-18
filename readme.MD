@@ -46,3 +46,16 @@ npm run preview
 ```
 
 ---
+
+## Estrutura principal
+
+- `src/App.jsx` — componente principal da SPA
+- `src/data/profiles.json` — base local com ~60 perfis simulados
+- `src/components/ProfileCard.jsx` — cards dos profissionais
+- `src/components/ProfileModal.jsx` — modal com dados detalhados
+- `src/components/SearchBar.jsx` — barra de busca
+- `src/components/FiltersBar.jsx` — filtros por área, cidade e tecnologia
+- `src/components/ThemeToggle.jsx` — botão de Dark Mode
+- `src/components/Header.jsx` e `Footer.jsx` — cabeçalho e rodapé
+
+---
