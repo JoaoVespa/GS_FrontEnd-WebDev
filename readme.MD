@@ -30,3 +30,10 @@ No terminal, dentro da pasta do projeto:
 ```bash
 npm install
 ```
+### 3. Rodar em ambiente de desenvolvimento
+
+```bash
+npm run dev
+```
+
+O Vite mostrará no terminal o endereço local (geralmente `http://localhost:5173`).
