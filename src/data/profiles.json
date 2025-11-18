@@ -1,0 +1,2467 @@
+[
+  {
+    "id": 1,
+    "nome": "Laura Martins",
+    "foto": "https://randomuser.me/api/portraits/women/11.jpg",
+    "cargo": "Desenvolvedora Front-End Júnior",
+    "resumo": "Desenvolvedora iniciante com foco em interfaces modernas e acessíveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["HTML", "CSS", "JavaScript", "React"],
+    "softSkills": ["Comunicação", "Empatia", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "TechWave",
+        "cargo": "Estagiária Front-End",
+        "inicio": "2023-02",
+        "fim": "",
+        "descricao": "Desenvolvimento de interfaces e manutenção de componentes React."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard de Vagas",
+        "link": "https://example.com/projeto1",
+        "descricao": "Sistema de busca de oportunidades utilizando APIs externas."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["IA ética", "Economia verde"],
+    "email": "laura.martins@futurework.dev"
+  },
+  {
+    "id": 2,
+    "nome": "Pedro Alencar",
+    "foto": "https://randomuser.me/api/portraits/men/32.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor full stack apaixonado por arquiteturas escaláveis.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "React", "SQL", "TypeScript"],
+    "softSkills": ["Liderança", "Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "SoftLink",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "",
+        "descricao": "Responsável pelo desenvolvimento de microsserviços de alto desempenho."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Integração",
+        "link": "https://example.com/projeto2",
+        "descricao": "Sistema modular para integração de dados corporativos."
+      }
+    ],
+    "certificacoes": ["AWS Cloud Practitioner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Educação contínua", "Futuro do trabalho"],
+    "email": "pedro.alencar@futurework.dev"
+  },
+  {
+    "id": 3,
+    "nome": "Beatriz Nogueira",
+    "foto": "https://randomuser.me/api/portraits/women/5.jpg",
+    "cargo": "UX/UI Designer",
+    "resumo": "Designer com foco em experiência do usuário e acessibilidade digital.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "UI Design", "Prototipagem", "HTML"],
+    "softSkills": ["Criatividade", "Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DesignSpark",
+        "cargo": "UX Designer",
+        "inicio": "2022-03",
+        "fim": "",
+        "descricao": "Criação de fluxos, testes de usabilidade e interfaces responsivas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-Rio",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde",
+        "link": "https://example.com/projeto3",
+        "descricao": "Aplicativo focado em hábitos saudáveis e interface intuitiva."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Educação", "Design inclusivo"],
+    "email": "beatriz.nogueira@futurework.dev"
+  },
+  {
+    "id": 4,
+    "nome": "Gabriel Couto",
+    "foto": "https://randomuser.me/api/portraits/men/64.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Especialista em machine learning aplicado a problemas reais.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Power BI", "SQL", "Machine Learning"],
+    "softSkills": ["Pensamento crítico", "Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "DataFuture",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-09",
+        "fim": "",
+        "descricao": "Criação de modelos preditivos e análise de grandes volumes de dados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Big Data",
+        "instituicao": "UTFPR",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Modelo de Previsão de Demanda",
+        "link": "https://example.com/projeto4",
+        "descricao": "Sistema para prever demanda com dados históricos."
+      }
+    ],
+    "certificacoes": ["Google Data Analytics"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["IA ética", "Economia verde"],
+    "email": "gabriel.couto@futurework.dev"
+  },
+  {
+    "id": 5,
+    "nome": "Mariana Lopes",
+    "foto": "https://randomuser.me/api/portraits/women/90.jpg",
+    "cargo": "Analista de People & Culture",
+    "resumo": "Profissional apaixonada pelo desenvolvimento humano e ambientes saudáveis.",
+    "localizacao": "Recife/PE",
+    "area": "RH e Pessoas",
+    "habilidadesTecnicas": ["Excel", "Power BI", "Gestão de Talentos", "People Analytics"],
+    "softSkills": ["Comunicação", "Empatia", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "HumanCo",
+        "cargo": "Analista de Pessoas",
+        "inicio": "2021-07",
+        "fim": "",
+        "descricao": "Desenvolvimento de programas de bem-estar e trilhas de carreira."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia Organizacional",
+        "instituicao": "UFPE",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Hub de Carreira",
+        "link": "https://example.com/projeto5",
+        "descricao": "Plataforma de desenvolvimento humano e treinamentos internos."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Educação contínua", "Futuro do trabalho"],
+    "email": "mariana.lopes@futurework.dev"
+  },
+
+  {
+    "id": 6,
+    "nome": "Lucas Peçanha",
+    "foto": "https://randomuser.me/api/portraits/men/81.jpg",
+    "cargo": "Analista de Operações Digitais",
+    "resumo": "Responsável por processos digitais e automação de rotinas.",
+    "localizacao": "Salvador/BA",
+    "area": "Operações",
+    "habilidadesTecnicas": ["Excel", "Power BI", "Automação", "SQL"],
+    "softSkills": ["Organização", "Liderança", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "FlowOps",
+        "cargo": "Analista Digital",
+        "inicio": "2022-01",
+        "fim": "",
+        "descricao": "Melhoria de processos internos e automatização de tarefas corporativas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UFBA",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Automação de Relatórios",
+        "link": "https://example.com/projeto6",
+        "descricao": "Robô para automatizar KPIs semanais."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Comunidades de prática", "Futuro do trabalho"],
+    "email": "lucas.pecanha@futurework.dev"
+  },
+
+  {
+    "id": 7,
+    "nome": "Amanda Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/women/22.jpg",
+    "cargo": "Facilitadora de Aprendizagem Digital",
+    "resumo": "Especialista em metodologias ativas e educação digital.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Figma", "PowerPoint", "HTML", "Design Instrucional"],
+    "softSkills": ["Criatividade", "Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "LearnHub",
+        "cargo": "Facilitadora",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Criação de materiais interativos e condução de trilhas de aprendizagem."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pedagogia",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://example.com/projeto7",
+        "descricao": "Portal com trilhas de capacitação profissional."
+      }
+    ],
+    "certificacoes": ["Google Educator"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Educação contínua", "Economia verde"],
+    "email": "amanda.ribeiro@futurework.dev"
+  },
+
+  {
+    "id": 8,
+    "nome": "Felipe Vasconcelos",
+    "foto": "https://randomuser.me/api/portraits/men/33.jpg",
+    "cargo": "Desenvolvedor Back-End",
+    "resumo": "Entusiasta de APIs, banco de dados e sistemas escaláveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "SQL", "Docker", "TypeScript"],
+    "softSkills": ["Pensamento crítico", "Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "CodeForge",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2021-04",
+        "fim": "",
+        "descricao": "Implementação de APIs REST, integrações e automações."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UNA",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API de Cadastros",
+        "link": "https://example.com/projeto8",
+        "descricao": "Sistema robusto de cadastro com validações e documentação."
+      }
+    ],
+    "certificacoes": ["Azure AI Fundamentals"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["IA ética", "Futuro do trabalho"],
+    "email": "felipe.vasconcelos@futurework.dev"
+  },
+
+  {
+    "id": 9,
+    "nome": "Larissa Teixeira",
+    "foto": "https://randomuser.me/api/portraits/women/12.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Pesquisadora focada em entrevistas, testes e análise de comportamento.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Pesquisa qualitativa", "Pesquisa quantitativa", "Métricas UX"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "InsightLab",
+        "cargo": "UX Researcher",
+        "inicio": "2022-03",
+        "fim": "",
+        "descricao": "Condução de estudos exploratórios e validação de produtos digitais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "Mackenzie",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pesquisa sobre Acessibilidade",
+        "link": "https://example.com/projeto9",
+        "descricao": "Estudo amplo sobre dificuldades de navegação."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Design inclusivo", "Diversidade e inclusão"],
+    "email": "larissa.teixeira@futurework.dev"
+  },
+
+  {
+    "id": 10,
+    "nome": "Daniel Moreira",
+    "foto": "https://randomuser.me/api/portraits/men/95.jpg",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Profissional focado em performance, segurança e acessibilidade.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "SQL", "Docker"],
+    "softSkills": ["Organização", "Pensamento crítico", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "NextCode",
+        "cargo": "Full Stack Developer",
+        "inicio": "2020-06",
+        "fim": "",
+        "descricao": "Desenvolvimento de aplicações completas utilizando stack JavaScript."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFRJ",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Entregas",
+        "link": "https://example.com/projeto10",
+        "descricao": "Plataforma completa para gestão de entregas."
+      }
+    ],
+    "certificacoes": ["AWS Cloud Practitioner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["IA ética", "Desenvolvimento sustentável"],
+    "email": "daniel.moreira@futurework.dev"
+  },
+
+  {
+    "id": 11,
+    "nome": "Carolina Mendes",
+    "foto": "https://randomuser.me/api/portraits/women/18.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional focada em indicadores estratégicos e dashboards.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Power BI", "SQL", "Python", "Excel"],
+    "softSkills": ["Organização", "Resiliência", "Pensamento crítico"],
+    "experiencias": [
+      {
+        "empresa": "VisionData",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-02",
+        "fim": "",
+        "descricao": "Produção de dashboards para alta gestão e análises de KPIs."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Corporativo",
+        "link": "https://example.com/projeto11",
+        "descricao": "Monitoramento completo de indicadores de negócio."
+      }
+    ],
+    "certificacoes": ["Google Data Analytics"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Economia verde", "IA ética"],
+    "email": "carolina.mendes@futurework.dev"
+  },
+
+  {
+    "id": 12,
+    "nome": "Ricardo Farias",
+    "foto": "https://randomuser.me/api/portraits/men/41.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Responsável por alinhar visão de produto e estratégia de negócio.",
+    "localizacao": "São Paulo/SP",
+    "area": "Operações",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Product Discovery", "No-Code"],
+    "softSkills": ["Liderança", "Comunicação", "Tomada de decisão"],
+    "experiencias": [
+      {
+        "empresa": "PrimeTech",
+        "cargo": "Product Owner",
+        "inicio": "2019-03",
+        "fim": "",
+        "descricao": "Gestão de backlog e priorização orientada a valor."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "FGV",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Novo Portal Corporativo",
+        "link": "https://example.com/projeto12",
+        "descricao": "Redesenho completo da experiência com foco no cliente."
+      }
+    ],
+    "certificacoes": ["Scrum Product Owner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Futuro do trabalho", "Comunidades de prática"],
+    "email": "ricardo.farias@futurework.dev"
+  },
+
+  {
+    "id": 13,
+    "nome": "Julia Barros",
+    "foto": "https://randomuser.me/api/portraits/women/84.jpg",
+    "cargo": "Desenvolvedora Front-End",
+    "resumo": "Apaixonada por design, acessibilidade e interfaces web.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "JavaScript", "Tailwind CSS", "HTML"],
+    "softSkills": ["Criatividade", "Empatia", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "PixelWorks",
+        "cargo": "Front-End Developer",
+        "inicio": "2021-08",
+        "fim": "",
+        "descricao": "Criação de componentes reutilizáveis e responsivos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UTFPR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de UI Components",
+        "link": "https://example.com/projeto13",
+        "descricao": "Biblioteca completa de componentes reutilizáveis."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Acessibilidade", "Economia verde"],
+    "email": "julia.barros@futurework.dev"
+  },
+
+  {
+    "id": 14,
+    "nome": "Eduardo Pires",
+    "foto": "https://randomuser.me/api/portraits/men/2.jpg",
+    "cargo": "Engenheiro de Software Sênior",
+    "resumo": "Atuação com arquitetura limpa, testes e microsserviços.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "Clean Architecture", "React", "SQL"],
+    "softSkills": ["Liderança", "Pensamento crítico", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "HighTech",
+        "cargo": "Engenheiro de Software Sênior",
+        "inicio": "2018-09",
+        "fim": "",
+        "descricao": "Liderança técnica em squads de desenvolvimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "CEFET",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Pagamentos",
+        "link": "https://example.com/projeto14",
+        "descricao": "Plataforma segura para transações financeiras."
+      }
+    ],
+    "certificacoes": ["AWS Architect"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["IA ética", "Desenvolvimento sustentável"],
+    "email": "eduardo.pires@futurework.dev"
+  },
+
+  {
+    "id": 15,
+    "nome": "Sofia Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/61.jpg",
+    "cargo": "Designer de Produto",
+    "resumo": "Profissional focada em usabilidade e design centrado no usuário.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "UI Design", "Prototipagem", "HTML"],
+    "softSkills": ["Comunicação", "Criatividade", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "BlueDesign",
+        "cargo": "Product Designer",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Criação de soluções digitais baseadas em comportamento do usuário."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design de Produtos",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Mobilidade",
+        "link": "https://example.com/projeto15",
+        "descricao": "Aplicativo focado em acessibilidade e eficiência."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Design inclusivo", "Educação contínua"],
+    "email": "sofia.almeida@futurework.dev"
+  },
+
+  {
+    "id": 16,
+    "nome": "Henrique Duarte",
+    "foto": "https://randomuser.me/api/portraits/men/71.jpg",
+    "cargo": "Analista de Infraestrutura",
+    "resumo": "Focado em ambientes cloud e automação.",
+    "localizacao": "Recife/PE",
+    "area": "Operações",
+    "habilidadesTecnicas": ["AWS", "Docker", "Linux", "Terraform"],
+    "softSkills": ["Resiliência", "Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "CloudOps",
+        "cargo": "Analista Cloud",
+        "inicio": "2020-04",
+        "fim": "",
+        "descricao": "Gerenciamento de ambientes e automação de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "UPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Ambiente Automatizado",
+        "link": "https://example.com/projeto16",
+        "descricao": "Criação de ambiente totalmente automatizado na AWS."
+      }
+    ],
+    "certificacoes": ["AWS Cloud Practitioner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Economia verde", "Futuro do trabalho"],
+    "email": "henrique.duarte@futurework.dev"
+  },
+
+  {
+    "id": 17,
+    "nome": "Patrícia Oliveira",
+    "foto": "https://randomuser.me/api/portraits/women/28.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Focada em clima organizacional e estratégia humana.",
+    "localizacao": "Campinas/SP",
+    "area": "RH e Pessoas",
+    "habilidadesTecnicas": ["People Analytics", "Excel", "Power BI"],
+    "softSkills": ["Empatia", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "HumanFirst",
+        "cargo": "Analista de RH",
+        "inicio": "2021-01",
+        "fim": "",
+        "descricao": "Atuação com desenvolvimento humano e clima organizacional."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Recursos Humanos",
+        "instituicao": "PUC-Campinas",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Cultura",
+        "link": "https://example.com/projeto17",
+        "descricao": "Iniciativa de melhoria cultural corporativa."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Diversidade e inclusão", "Educação contínua"],
+    "email": "patricia.oliveira@futurework.dev"
+  },
+
+  {
+    "id": 18,
+    "nome": "Matheus Silva",
+    "foto": "https://randomuser.me/api/portraits/men/13.jpg",
+    "cargo": "Analista de Segurança da Informação",
+    "resumo": "Atuação em proteção de dados e monitoramento de riscos.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Operações",
+    "habilidadesTecnicas": ["Linux", "Firewalls", "Segurança", "Python"],
+    "softSkills": ["Pensamento crítico", "Resiliência", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "SecureCorp",
+        "cargo": "Analista de Segurança",
+        "inicio": "2020-10",
+        "fim": "",
+        "descricao": "Monitoramento e resposta a incidentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "Estácio",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Monitoramento",
+        "link": "https://example.com/projeto18",
+        "descricao": "Dashboard com alertas e indicadores de risco."
+      }
+    ],
+    "certificacoes": ["CompTIA Security+"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["IA ética", "Futuro do trabalho"],
+    "email": "matheus.silva@futurework.dev"
+  },
+
+  {
+    "id": 19,
+    "nome": "Rafaela Souza",
+    "foto": "https://randomuser.me/api/portraits/women/34.jpg",
+    "cargo": "Cientista de Dados Júnior",
+    "resumo": "Focada em análise exploratória e machine learning.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Pandas", "Machine Learning", "SQL"],
+    "softSkills": ["Comunicação", "Organização", "Pensamento crítico"],
+    "experiencias": [
+      {
+        "empresa": "DataLab",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-03",
+        "fim": "",
+        "descricao": "Análises e criação de modelos preditivos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência de Dados",
+        "instituicao": "UTFPR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Vendas",
+        "link": "https://example.com/projeto19",
+        "descricao": "Modelo preditivo baseado em séries temporais."
+      }
+    ],
+    "certificacoes": ["Google Data Analytics"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Economia verde", "IA ética"],
+    "email": "rafaela.souza@futurework.dev"
+  },
+
+  {
+    "id": 20,
+    "nome": "Diego Ferreira",
+    "foto": "https://randomuser.me/api/portraits/men/77.jpg",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Especializado em criação de apps híbridos e nativos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React Native", "JavaScript", "TypeScript", "Expo"],
+    "softSkills": ["Organização", "Colaboração", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "MobileDev",
+        "cargo": "Mobile Developer",
+        "inicio": "2021-05",
+        "fim": "",
+        "descricao": "Desenvolvimento de aplicativos multiplataforma com foco em UX."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Finanças",
+        "link": "https://example.com/projeto20",
+        "descricao": "Aplicativo simples para controle financeiro pessoal."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Educação contínua", "Futuro do trabalho"],
+    "email": "diego.ferreira@futurework.dev"
+  }
+  ,
+  {
+    "id": 21,
+    "nome": "Bruna Cavalcante",
+    "foto": "https://randomuser.me/api/portraits/women/44.jpg",
+    "cargo": "Analista de Experiência do Cliente",
+    "resumo": "Focada em ouvir clientes e transformar feedback em melhorias reais.",
+    "localizacao": "Salvador/BA",
+    "area": "Operações",
+    "habilidadesTecnicas": ["CRM", "Excel", "Power BI", "Pesquisa de Satisfação"],
+    "softSkills": ["Empatia", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "CustomerFirst",
+        "cargo": "Analista de CX",
+        "inicio": "2021-02",
+        "fim": "",
+        "descricao": "Responsável por mapear jornadas e acompanhar indicadores de satisfação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UFBA",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Mapa da Jornada do Cliente",
+        "link": "https://example.com/projeto21",
+        "descricao": "Projeto para entender fricções na jornada e propor melhorias."
+      }
+    ],
+    "certificacoes": ["CX Management"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Futuro do trabalho", "Comunidades de prática"],
+    "email": "bruna.cavalcante@futurework.dev"
+  },
+  {
+    "id": 22,
+    "nome": "Thiago Azevedo",
+    "foto": "https://randomuser.me/api/portraits/men/54.jpg",
+    "cargo": "Desenvolvedor Front-End Júnior",
+    "resumo": "Desenvolvedor em início de carreira com foco em React e Tailwind.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
+    "softSkills": ["Resiliência", "Trabalho em equipe", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DevStart",
+        "cargo": "Estagiário Front-End",
+        "inicio": "2023-01",
+        "fim": "",
+        "descricao": "Criação de componentes reutilizáveis e correção de bugs em produção."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Landing Page Responsiva",
+        "link": "https://example.com/projeto22",
+        "descricao": "Página com foco em performance e acessibilidade."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Educação contínua", "Futuro do trabalho"],
+    "email": "thiago.azevedo@futurework.dev"
+  },
+  {
+    "id": 23,
+    "nome": "Isabela Rocha",
+    "foto": "https://randomuser.me/api/portraits/women/65.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Focada em produtos digitais com impacto social e educacional.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Operações",
+    "habilidadesTecnicas": ["Product Discovery", "Roadmapping", "Scrum", "OKRs"],
+    "softSkills": ["Liderança", "Comunicação", "Visão sistêmica"],
+    "experiencias": [
+      {
+        "empresa": "EduTech Labs",
+        "cargo": "Product Manager",
+        "inicio": "2019-06",
+        "fim": "",
+        "descricao": "Gestão de produtos voltados à educação digital e edtechs."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UFMG",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Cursos Online",
+        "link": "https://example.com/projeto23",
+        "descricao": "Produto focado em trilhas profissionais e mentorias."
+      }
+    ],
+    "certificacoes": ["Scrum Product Owner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Educação contínua", "Economia verde"],
+    "email": "isabela.rocha@futurework.dev"
+  },
+  {
+    "id": 24,
+    "nome": "Gustavo Lima",
+    "foto": "https://randomuser.me/api/portraits/men/84.jpg",
+    "cargo": "Cientista de Dados Pleno",
+    "resumo": "Apaixonado por transformar dados em decisões estratégicas.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI", "Machine Learning"],
+    "softSkills": ["Pensamento crítico", "Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "InsightData",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-02",
+        "fim": "",
+        "descricao": "Desenvolvimento de modelos preditivos para vendas e churn."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Produção",
+        "instituicao": "UFPR",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Modelo de Churn",
+        "link": "https://example.com/projeto24",
+        "descricao": "Predição de cancelamento de clientes usando dados históricos."
+      }
+    ],
+    "certificacoes": ["Google Data Analytics"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["IA ética", "Economia verde"],
+    "email": "gustavo.lima@futurework.dev"
+  },
+  {
+    "id": 25,
+    "nome": "Natália Freitas",
+    "foto": "https://randomuser.me/api/portraits/women/73.jpg",
+    "cargo": "UX Writer",
+    "resumo": "Ajuda produtos digitais a falarem a língua dos usuários.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["UX Writing", "Pesquisa com usuários", "Arquitetura de conteúdo", "Figma"],
+    "softSkills": ["Comunicação", "Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "VoiceUX",
+        "cargo": "UX Writer",
+        "inicio": "2021-01",
+        "fim": "",
+        "descricao": "Criação de microtextos, fluxos de erro e conteúdos educativos em apps."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Letras",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Onboarding",
+        "link": "https://example.com/projeto25",
+        "descricao": "Conteúdos guiados para novos usuários."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Educação", "Design inclusivo"],
+    "email": "natalia.freitas@futurework.dev"
+  },
+  {
+    "id": 26,
+    "nome": "André Cardoso",
+    "foto": "https://randomuser.me/api/portraits/men/31.jpg",
+    "cargo": "Engenheiro de DevOps",
+    "resumo": "Focado em CI/CD, automação e cultura DevOps.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Operações",
+    "habilidadesTecnicas": ["Docker", "Kubernetes", "CI/CD", "Linux"],
+    "softSkills": ["Trabalho em equipe", "Resiliência", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "DevOps Engineer",
+        "inicio": "2019-09",
+        "fim": "",
+        "descricao": "Automação de deploys e monitoramento de infraestrutura."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "UERJ",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline Automatizado",
+        "link": "https://example.com/projeto26",
+        "descricao": "Pipeline de entrega contínua para múltiplos serviços."
+      }
+    ],
+    "certificacoes": ["AWS Cloud Practitioner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Futuro do trabalho", "Economia verde"],
+    "email": "andre.cardoso@futurework.dev"
+  },
+  {
+    "id": 27,
+    "nome": "Luana Reis",
+    "foto": "https://randomuser.me/api/portraits/women/3.jpg",
+    "cargo": "Desenvolvedora Back-End Júnior",
+    "resumo": "Iniciando carreira em desenvolvimento de APIs e microserviços.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "TypeScript", "SQL", "Git"],
+    "softSkills": ["Comunicação", "Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "CodeStart",
+        "cargo": "Estagiária Back-End",
+        "inicio": "2023-03",
+        "fim": "",
+        "descricao": "Manutenção de APIs REST e correção de bugs."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API de Produtos",
+        "link": "https://example.com/projeto27",
+        "descricao": "API simples para cadastro e listagem de produtos."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Educação contínua", "Futuro do trabalho"],
+    "email": "luana.reis@futurework.dev"
+  },
+  {
+    "id": 28,
+    "nome": "Rodrigo Martins",
+    "foto": "https://randomuser.me/api/portraits/men/12.jpg",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Desenha arquiteturas escaláveis e seguras para grandes sistemas.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Cloud", "Microservices", "APIs", "SQL"],
+    "softSkills": ["Visão sistêmica", "Liderança", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "ArchTech",
+        "cargo": "Solution Architect",
+        "inicio": "2018-01",
+        "fim": "",
+        "descricao": "Definição de arquiteturas corporativas e padrões de desenvolvimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Arquitetura Omnichannel",
+        "link": "https://example.com/projeto28",
+        "descricao": "Solução para integrar diversos canais de atendimento."
+      }
+    ],
+    "certificacoes": ["AWS Architect"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["IA ética", "Economia verde"],
+    "email": "rodrigo.martins@futurework.dev"
+  },
+  {
+    "id": 29,
+    "nome": "Helena Castro",
+    "foto": "https://randomuser.me/api/portraits/women/49.jpg",
+    "cargo": "Scrum Master",
+    "resumo": "Facilita times ágeis e remove impedimentos do dia a dia.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Operações",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Facilitação", "OKRs"],
+    "softSkills": ["Comunicação", "Liderança", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "AgileFlow",
+        "cargo": "Scrum Master",
+        "inicio": "2019-11",
+        "fim": "",
+        "descricao": "Facilitação de cerimônias, apoio ao time e melhoria contínua."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "Estácio",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Transformação Ágil",
+        "link": "https://example.com/projeto29",
+        "descricao": "Programa para adoção de práticas ágeis em toda a empresa."
+      }
+    ],
+    "certificacoes": ["PSM I"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Comunidades de prática", "Futuro do trabalho"],
+    "email": "helena.castro@futurework.dev"
+  },
+  {
+    "id": 30,
+    "nome": "Marcelo Oliveira",
+    "foto": "https://randomuser.me/api/portraits/men/67.jpg",
+    "cargo": "Especialista em BI",
+    "resumo": "Cria dashboards estratégicos para tomada de decisão.",
+    "localizacao": "Salvador/BA",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Power BI", "SQL", "ETL", "Excel"],
+    "softSkills": ["Organização", "Pensamento crítico", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "VisionBI",
+        "cargo": "Especialista em BI",
+        "inicio": "2020-08",
+        "fim": "",
+        "descricao": "Desenvolvimento de painéis para diversas áreas de negócio."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFBA",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Painel de Vendas",
+        "link": "https://example.com/projeto30",
+        "descricao": "Dashboard com KPIs principais de vendas."
+      }
+    ],
+    "certificacoes": ["Microsoft BI"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Economia verde", "IA ética"],
+    "email": "marcelo.oliveira@futurework.dev"
+  },
+  {
+    "id": 31,
+    "nome": "Fernanda Santos",
+    "foto": "https://randomuser.me/api/portraits/women/55.jpg",
+    "cargo": "Desenvolvedora Front-End Plena",
+    "resumo": "Cria interfaces performáticas e acessíveis para usuários de todo tipo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "TypeScript", "Tailwind CSS", "Jest"],
+    "softSkills": ["Comunicação", "Trabalho em equipe", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "FrontLab",
+        "cargo": "Front-End Developer",
+        "inicio": "2019-05",
+        "fim": "",
+        "descricao": "Desenvolvimento de aplicações SPA com foco em UX."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Comunidade",
+        "link": "https://example.com/projeto31",
+        "descricao": "Sistema de comunidades de prática para empresas."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Acessibilidade", "Futuro do trabalho"],
+    "email": "fernanda.santos@futurework.dev"
+  },
+  {
+    "id": 32,
+    "nome": "João Pedro Nunes",
+    "foto": "https://randomuser.me/api/portraits/men/19.jpg",
+    "cargo": "Desenvolvedor Full Stack Júnior",
+    "resumo": "Atua do front ao back com foco em aprendizado contínuo.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "SQL", "Git"],
+    "softSkills": ["Resiliência", "Trabalho em equipe", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "DevGrow",
+        "cargo": "Full Stack Dev Jr.",
+        "inicio": "2022-09",
+        "fim": "",
+        "descricao": "Participação em projetos internos e suporte a sistemas legados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "PUC-Campinas",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Reservas",
+        "link": "https://example.com/projeto32",
+        "descricao": "Aplicação web para reservas simples e rápidas."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Educação contínua", "Comunidades de prática"],
+    "email": "joao.nunes@futurework.dev"
+  },
+  {
+    "id": 33,
+    "nome": "Camila Aragão",
+    "foto": "https://randomuser.me/api/portraits/women/17.jpg",
+    "cargo": "Facilitadora de Workshops",
+    "resumo": "Conduz dinâmicas de inovação e trabalho colaborativo.",
+    "localizacao": "Recife/PE",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Design Thinking", "Facilitação", "Miro", "Figma"],
+    "softSkills": ["Comunicação", "Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "InnovLabs",
+        "cargo": "Facilitadora",
+        "inicio": "2019-04",
+        "fim": "",
+        "descricao": "Workshops de inovação, cocriação e resolução de problemas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design",
+        "instituicao": "UFPE",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Inovação Aberta",
+        "link": "https://example.com/projeto33",
+        "descricao": "Conexão entre startups e grandes empresas."
+      }
+    ],
+    "certificacoes": ["Facilitação Ágil"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Futuro do trabalho", "Economia verde"],
+    "email": "camila.aragao@futurework.dev"
+  },
+  {
+    "id": 34,
+    "nome": "Renato Figueiredo",
+    "foto": "https://randomuser.me/api/portraits/men/29.jpg",
+    "cargo": "Engenheiro de Machine Learning",
+    "resumo": "Constrói modelos de IA com foco em responsabilidade e ética.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Machine Learning", "MLOps", "SQL"],
+    "softSkills": ["Pensamento crítico", "Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "AIWorks",
+        "cargo": "ML Engineer",
+        "inicio": "2020-07",
+        "fim": "",
+        "descricao": "Desenvolvimento de pipelines de modelos em produção."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Elétrica",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Modelo de Recomendação",
+        "link": "https://example.com/projeto34",
+        "descricao": "Sistema de recomendações para e-commerce."
+      }
+    ],
+    "certificacoes": ["TensorFlow Developer"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["IA ética", "Economia verde"],
+    "email": "renato.figueiredo@futurework.dev"
+  },
+  {
+    "id": 35,
+    "nome": "Talita Moraes",
+    "foto": "https://randomuser.me/api/portraits/women/52.jpg",
+    "cargo": "Analista de Treinamento & Desenvolvimento",
+    "resumo": "Cria trilhas de desenvolvimento para equipes em transição de carreira.",
+    "localizacao": "Curitiba/PR",
+    "area": "RH e Pessoas",
+    "habilidadesTecnicas": ["PowerPoint", "Design Instrucional", "Excel", "People Analytics"],
+    "softSkills": ["Empatia", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "GrowPeople",
+        "cargo": "Analista de T&D",
+        "inicio": "2021-05",
+        "fim": "",
+        "descricao": "Desenvolvimento de trilhas de capacitação focadas em soft e hard skills."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "PUC-PR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Reskilling",
+        "link": "https://example.com/projeto35",
+        "descricao": "Trilha de requalificação para profissionais em transição."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Educação contínua", "Diversidade e inclusão"],
+    "email": "talita.moraes@futurework.dev"
+  },
+  {
+    "id": 36,
+    "nome": "Bruno Ferreira",
+    "foto": "https://randomuser.me/api/portraits/men/60.jpg",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Focado em interfaces acessíveis e desenvolvimento de componentes.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "JavaScript", "Tailwind CSS", "HTML"],
+    "softSkills": ["Trabalho em equipe", "Comunicação", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "DigitalWave",
+        "cargo": "Front-End Developer",
+        "inicio": "2020-10",
+        "fim": "",
+        "descricao": "Criação de componentes reutilizáveis em design systems."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFRJ",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Design System Web",
+        "link": "https://example.com/projeto36",
+        "descricao": "Biblioteca de componentes usada por diversos produtos."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Acessibilidade", "Futuro do trabalho"],
+    "email": "bruno.ferreira@futurework.dev"
+  },
+  {
+    "id": 37,
+    "nome": "Ana Paula Nascimento",
+    "foto": "https://randomuser.me/api/portraits/women/58.jpg",
+    "cargo": "Data Engineer",
+    "resumo": "Constrói pipelines de dados eficientes e confiáveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "ETL", "Azure"],
+    "softSkills": ["Organização", "Resiliência", "Pensamento crítico"],
+    "experiencias": [
+      {
+        "empresa": "DataPipe",
+        "cargo": "Data Engineer",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Desenvolvimento de pipelines e governança de dados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "Mackenzie",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline de Dados",
+        "link": "https://example.com/projeto37",
+        "descricao": "Pipeline entre múltiplas fontes de dados."
+      }
+    ],
+    "certificacoes": ["Azure Data Engineer"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Economia verde", "IA ética"],
+    "email": "ana.nascimento@futurework.dev"
+  },
+  {
+    "id": 38,
+    "nome": "Paulo Henrique Costa",
+    "foto": "https://randomuser.me/api/portraits/men/69.jpg",
+    "cargo": "Tech Lead",
+    "resumo": "Lidera equipes de desenvolvimento com foco em qualidade e mentoria.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "Clean Architecture", "SQL"],
+    "softSkills": ["Liderança", "Comunicação", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "LeadTech",
+        "cargo": "Tech Lead",
+        "inicio": "2018-06",
+        "fim": "",
+        "descricao": "Mentoria técnica e definição de padrões de arquitetura."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UTFPR",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Gestão",
+        "link": "https://example.com/projeto38",
+        "descricao": "Solução para gestão integrada de projetos."
+      }
+    ],
+    "certificacoes": ["AWS Architect"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Futuro do trabalho", "Comunidades de prática"],
+    "email": "paulo.costa@futurework.dev"
+  },
+  {
+    "id": 39,
+    "nome": "Letícia Fonseca",
+    "foto": "https://randomuser.me/api/portraits/women/25.jpg",
+    "cargo": "Pesquisadora em Educação",
+    "resumo": "Pesquisa novas formas de aprendizagem e uso de tecnologia na educação.",
+    "localizacao": "Recife/PE",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Pesquisa qualitativa", "Análise de dados", "Design Instrucional", "Figma"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "EdLabs",
+        "cargo": "Pesquisadora",
+        "inicio": "2020-09",
+        "fim": "",
+        "descricao": "Pesquisa aplicada em metodologias ativas e ensino híbrido."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pedagogia",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Observatório de Educação Digital",
+        "link": "https://example.com/projeto39",
+        "descricao": "Projeto que analisa tecnologias educacionais no Brasil."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Educação contínua", "Futuro do trabalho"],
+    "email": "leticia.fonseca@futurework.dev"
+  },
+  {
+    "id": 40,
+    "nome": "Victor Almeida",
+    "foto": "https://randomuser.me/api/portraits/men/24.jpg",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Focado em performance, UI moderna e testes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "TypeScript", "Tailwind CSS", "Jest"],
+    "softSkills": ["Organização", "Trabalho em equipe", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "PixelFront",
+        "cargo": "Front-End Dev",
+        "inicio": "2020-03",
+        "fim": "",
+        "descricao": "Criação de interfaces para grandes portais de conteúdo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal de Conteúdo",
+        "link": "https://example.com/projeto40",
+        "descricao": "Sistema com foco em UX, acessibilidade e performance."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Acessibilidade", "Futuro do trabalho"],
+    "email": "victor.almeida@futurework.dev"
+  }
+  ,
+  {
+    "id": 41,
+    "nome": "Clara Martins",
+    "foto": "https://randomuser.me/api/portraits/women/11.jpg",
+    "cargo": "Desenvolvedora Front-End Júnior",
+    "resumo": "Iniciando carreira em desenvolvimento web focado em acessibilidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["HTML", "CSS", "JavaScript", "React"],
+    "softSkills": ["Comunicação", "Empatia", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "StartWeb",
+        "cargo": "Estagiária Front-End",
+        "inicio": "2023-02",
+        "fim": "",
+        "descricao": "Apoio na criação de interfaces responsivas para produtos internos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal de Vagas Júnior",
+        "link": "https://example.com/projeto41",
+        "descricao": "Portal focado em oportunidades para profissionais iniciantes."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Educação contínua", "Futuro do trabalho"],
+    "email": "clara.martins@futurework.dev"
+  },
+  {
+    "id": 42,
+    "nome": "Rafael Correia",
+    "foto": "https://randomuser.me/api/portraits/men/32.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Trabalha com desenvolvimento full stack e boas práticas de código.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "React", "TypeScript", "SQL"],
+    "softSkills": ["Liderança", "Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "NextGen Tech",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "",
+        "descricao": "Implementação de novas funcionalidades e revisão de código."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Gestão de Projetos",
+        "link": "https://example.com/projeto42",
+        "descricao": "Sistema para acompanhar tarefas e produtividade de times."
+      }
+    ],
+    "certificacoes": ["AWS Cloud Practitioner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Futuro do trabalho", "Comunidades de prática"],
+    "email": "rafael.correia@futurework.dev"
+  },
+  {
+    "id": 43,
+    "nome": "Mariana Prado",
+    "foto": "https://randomuser.me/api/portraits/women/5.jpg",
+    "cargo": "UX/UI Designer",
+    "resumo": "Designer focada em produtos digitais inclusivos e acessíveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "UI Design", "Prototipagem", "Pesquisa UX"],
+    "softSkills": ["Criatividade", "Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Pixel Studio",
+        "cargo": "UX/UI Designer",
+        "inicio": "2022-04",
+        "fim": "",
+        "descricao": "Criação de interfaces para aplicações web e mobile."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Gráfico",
+        "instituicao": "PUC-Rio",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Bem-Estar",
+        "link": "https://example.com/projeto43",
+        "descricao": "Aplicativo voltado à saúde mental e rotina saudável."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Design inclusivo", "Educação"],
+    "email": "mariana.prado@futurework.dev"
+  },
+  {
+    "id": 44,
+    "nome": "Lucas Andrade",
+    "foto": "https://randomuser.me/api/portraits/men/64.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Utiliza dados para apoiar decisões estratégicas em empresas.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "Power BI", "Machine Learning"],
+    "softSkills": ["Pensamento crítico", "Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "DataBridge",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-09",
+        "fim": "",
+        "descricao": "Modelagem de dados e criação de dashboards executivos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFPR",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de Demanda",
+        "link": "https://example.com/projeto44",
+        "descricao": "Modelo preditivo para otimizar estoque em varejo."
+      }
+    ],
+    "certificacoes": ["Google Data Analytics"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["IA ética", "Economia verde"],
+    "email": "lucas.andrade@futurework.dev"
+  },
+  {
+    "id": 45,
+    "nome": "Renata Souza",
+    "foto": "https://randomuser.me/api/portraits/women/90.jpg",
+    "cargo": "Analista de People & Culture",
+    "resumo": "Atua com desenvolvimento humano e cultura organizacional.",
+    "localizacao": "Recife/PE",
+    "area": "RH e Pessoas",
+    "habilidadesTecnicas": ["Excel", "People Analytics", "Power BI", "Gestão de Talentos"],
+    "softSkills": ["Empatia", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "HumanWay",
+        "cargo": "Analista de Pessoas",
+        "inicio": "2021-07",
+        "fim": "",
+        "descricao": "Criação de programas de bem-estar e acompanhamento de clima."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia Organizacional",
+        "instituicao": "UFPE",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Feedback Contínuo",
+        "link": "https://example.com/projeto45",
+        "descricao": "Sistema de feedback recorrente entre líderes e equipes."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Educação contínua", "Diversidade e inclusão"],
+    "email": "renata.souza@futurework.dev"
+  },
+  {
+    "id": 46,
+    "nome": "Felipe Nascimento",
+    "foto": "https://randomuser.me/api/portraits/men/81.jpg",
+    "cargo": "Analista de Operações Digitais",
+    "resumo": "Busca eficiência em processos usando automação e dados.",
+    "localizacao": "Salvador/BA",
+    "area": "Operações",
+    "habilidadesTecnicas": ["Excel", "SQL", "Power BI", "Automação"],
+    "softSkills": ["Organização", "Resiliência", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "FlowDigital",
+        "cargo": "Analista Digital",
+        "inicio": "2022-01",
+        "fim": "",
+        "descricao": "Otimização de processos internos e relatórios automatizados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UFBA",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Painel de Operações",
+        "link": "https://example.com/projeto46",
+        "descricao": "Dashboard para acompanhar fluxos operacionais em tempo real."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Comunidades de prática", "Futuro do trabalho"],
+    "email": "felipe.nascimento@futurework.dev"
+  },
+  {
+    "id": 47,
+    "nome": "Amanda Figueira",
+    "foto": "https://randomuser.me/api/portraits/women/22.jpg",
+    "cargo": "Facilitadora de Aprendizagem Digital",
+    "resumo": "Conecta pessoas a novas habilidades usando tecnologia.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Design Instrucional", "Figma", "PowerPoint", "Miro"],
+    "softSkills": ["Comunicação", "Empatia", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "EdMove",
+        "cargo": "Facilitadora",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Desenvolvimento de cursos online e oficinas de capacitação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pedagogia",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Trilha de Reskilling Digital",
+        "link": "https://example.com/projeto47",
+        "descricao": "Programa para requalificar profissionais para área de tecnologia."
+      }
+    ],
+    "certificacoes": ["Google Educator"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Educação contínua", "Futuro do trabalho"],
+    "email": "amanda.figueira@futurework.dev"
+  },
+  {
+    "id": 48,
+    "nome": "Eduardo Carvalho",
+    "foto": "https://randomuser.me/api/portraits/men/33.jpg",
+    "cargo": "Desenvolvedor Back-End",
+    "resumo": "Trabalha com APIs, integração de sistemas e segurança.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "TypeScript", "SQL", "Docker"],
+    "softSkills": ["Pensamento crítico", "Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "BackLine",
+        "cargo": "Back-End Developer",
+        "inicio": "2021-04",
+        "fim": "",
+        "descricao": "Desenvolvimento de serviços de autenticação e APIs internas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "PUC Minas",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API de Autenticação",
+        "link": "https://example.com/projeto48",
+        "descricao": "Serviço de login com tokens e boas práticas de segurança."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["IA ética", "Futuro do trabalho"],
+    "email": "eduardo.carvalho@futurework.dev"
+  },
+  {
+    "id": 49,
+    "nome": "Larissa Coutinho",
+    "foto": "https://randomuser.me/api/portraits/women/12.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Pesquisa comportamentos de usuários para orientar decisões de produto.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Pesquisa qualitativa", "Pesquisa quantitativa", "Figma", "Entrevistas"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "UserLab",
+        "cargo": "UX Researcher",
+        "inicio": "2022-03",
+        "fim": "",
+        "descricao": "Condução de testes de usabilidade e pesquisas exploratórias."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "Mackenzie",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Estudo de Acessibilidade Digital",
+        "link": "https://example.com/projeto49",
+        "descricao": "Pesquisa sobre barreiras de navegação em produtos digitais."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Design inclusivo", "Diversidade e inclusão"],
+    "email": "larissa.coutinho@futurework.dev"
+  },
+  {
+    "id": 50,
+    "nome": "Daniel Barbosa",
+    "foto": "https://randomuser.me/api/portraits/men/95.jpg",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Atua em todas as camadas da aplicação com foco em qualidade.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "SQL", "Docker"],
+    "softSkills": ["Organização", "Liderança", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "FullDev",
+        "cargo": "Full Stack Developer",
+        "inicio": "2020-06",
+        "fim": "",
+        "descricao": "Implementação de funcionalidades de ponta a ponta."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFRJ",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://example.com/projeto50",
+        "descricao": "Aplicação completa para venda de produtos online."
+      }
+    ],
+    "certificacoes": ["AWS Cloud Practitioner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Futuro do trabalho", "Economia verde"],
+    "email": "daniel.barbosa@futurework.dev"
+  },
+  {
+    "id": 51,
+    "nome": "Carolina Ferraz",
+    "foto": "https://randomuser.me/api/portraits/women/18.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Cria relatórios e dashboards para áreas de negócio.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Power BI", "SQL", "Python", "Excel"],
+    "softSkills": ["Organização", "Resiliência", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DataView",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-02",
+        "fim": "",
+        "descricao": "Elaboração de dashboards e estudos de performance."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência de Dados",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Painel de Indicadores",
+        "link": "https://example.com/projeto51",
+        "descricao": "Dashboard integrado com dados de várias fontes."
+      }
+    ],
+    "certificacoes": ["Google Data Analytics"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Economia verde", "IA ética"],
+    "email": "carolina.ferraz@futurework.dev"
+  },
+  {
+    "id": 52,
+    "nome": "Ricardo Vieira",
+    "foto": "https://randomuser.me/api/portraits/men/41.jpg",
+    "cargo": "Product Owner",
+    "resumo": "Conecta visão de negócio com o desenvolvimento de produtos ágeis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Operações",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Product Discovery", "OKRs"],
+    "softSkills": ["Liderança", "Comunicação", "Visão sistêmica"],
+    "experiencias": [
+      {
+        "empresa": "ValueProd",
+        "cargo": "Product Owner",
+        "inicio": "2019-03",
+        "fim": "",
+        "descricao": "Definição de roadmap e alinhamento entre stakeholders e time técnico."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "FGV",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal de Serviços Digitais",
+        "link": "https://example.com/projeto52",
+        "descricao": "Hub de serviços integrado para clientes corporativos."
+      }
+    ],
+    "certificacoes": ["Scrum Product Owner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Futuro do trabalho", "Comunidades de prática"],
+    "email": "ricardo.vieira@futurework.dev"
+  },
+  {
+    "id": 53,
+    "nome": "Julia Antunes",
+    "foto": "https://randomuser.me/api/portraits/women/84.jpg",
+    "cargo": "Desenvolvedora Front-End",
+    "resumo": "Desenvolve interfaces modernas com foco em responsividade.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "JavaScript", "Tailwind CSS", "HTML"],
+    "softSkills": ["Criatividade", "Empatia", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "WebFlow",
+        "cargo": "Front-End Developer",
+        "inicio": "2021-08",
+        "fim": "",
+        "descricao": "Criação de páginas e componentes para aplicações web."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UTFPR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Landing Page Educacional",
+        "link": "https://example.com/projeto53",
+        "descricao": "Página para divulgação de cursos de tecnologia."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Educação", "Design inclusivo"],
+    "email": "julia.antunes@futurework.dev"
+  },
+  {
+    "id": 54,
+    "nome": "Henrique Pacheco",
+    "foto": "https://randomuser.me/api/portraits/men/2.jpg",
+    "cargo": "Engenheiro de Software Sênior",
+    "resumo": "Especialista em arquitetura, testes e integração contínua.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "Clean Architecture", "React", "SQL"],
+    "softSkills": ["Liderança", "Pensamento crítico", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "CoreTech",
+        "cargo": "Engenheiro de Software Sênior",
+        "inicio": "2018-09",
+        "fim": "",
+        "descricao": "Liderança técnica e definição de padrões de desenvolvimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "CEFET-MG",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Pagamentos",
+        "link": "https://example.com/projeto54",
+        "descricao": "Sistema robusto para transações financeiras."
+      }
+    ],
+    "certificacoes": ["AWS Architect"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["IA ética", "Desenvolvimento sustentável"],
+    "email": "henrique.pacheco@futurework.dev"
+  },
+  {
+    "id": 55,
+    "nome": "Sofia Lima",
+    "foto": "https://randomuser.me/api/portraits/women/61.jpg",
+    "cargo": "Designer de Produto",
+    "resumo": "Une negócios e experiência do usuário na criação de produtos digitais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "UI Design", "Prototipagem", "Pesquisa UX"],
+    "softSkills": ["Comunicação", "Criatividade", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "ProdDesign",
+        "cargo": "Product Designer",
+        "inicio": "2020-01",
+        "fim": "",
+        "descricao": "Desenvolvimento de soluções digitais centradas no usuário."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design de Produtos",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Mobilidade Urbana",
+        "link": "https://example.com/projeto55",
+        "descricao": "Aplicativo voltado a rotas acessíveis e eficientes."
+      }
+    ],
+    "certificacoes": ["Google UX Design"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Design inclusivo", "Educação contínua"],
+    "email": "sofia.lima@futurework.dev"
+  },
+  {
+    "id": 56,
+    "nome": "Gustavo Barbosa",
+    "foto": "https://randomuser.me/api/portraits/men/71.jpg",
+    "cargo": "Analista de Infraestrutura",
+    "resumo": "Cuida de ambientes cloud e automações de infraestrutura.",
+    "localizacao": "Recife/PE",
+    "area": "Operações",
+    "habilidadesTecnicas": ["AWS", "Docker", "Linux", "Terraform"],
+    "softSkills": ["Resiliência", "Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "CloudInfra",
+        "cargo": "Analista de Infraestrutura",
+        "inicio": "2020-04",
+        "fim": "",
+        "descricao": "Administração de ambientes e suporte a times de desenvolvimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "UPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Infraestrutura como Código",
+        "link": "https://example.com/projeto56",
+        "descricao": "Padronização de ambientes usando Terraform."
+      }
+    ],
+    "certificacoes": ["AWS Cloud Practitioner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Economia verde", "Futuro do trabalho"],
+    "email": "gustavo.barbosa@futurework.dev"
+  },
+  {
+    "id": 57,
+    "nome": "Patrícia Gomes",
+    "foto": "https://randomuser.me/api/portraits/women/28.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Apoia times em processos de recrutamento e desenvolvimento.",
+    "localizacao": "Campinas/SP",
+    "area": "RH e Pessoas",
+    "habilidadesTecnicas": ["People Analytics", "Excel", "Power BI"],
+    "softSkills": ["Empatia", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "PeopleCare",
+        "cargo": "Analista de RH",
+        "inicio": "2021-01",
+        "fim": "",
+        "descricao": "Ações focadas em clima, cultura e desenvolvimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Recursos Humanos",
+        "instituicao": "PUC-Campinas",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Mentoria",
+        "link": "https://example.com/projeto57",
+        "descricao": "Mentoria entre profissionais seniores e juniores."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Diversidade e inclusão", "Educação contínua"],
+    "email": "patricia.gomes@futurework.dev"
+  },
+  {
+    "id": 58,
+    "nome": "Matheus Cardoso",
+    "foto": "https://randomuser.me/api/portraits/men/13.jpg",
+    "cargo": "Analista de Segurança da Informação",
+    "resumo": "Protege dados e monitora riscos em ambientes corporativos.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Operações",
+    "habilidadesTecnicas": ["Linux", "Firewalls", "Segurança", "Python"],
+    "softSkills": ["Pensamento crítico", "Resiliência", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "SecureTech",
+        "cargo": "Analista de Segurança",
+        "inicio": "2020-10",
+        "fim": "",
+        "descricao": "Monitoramento de incidentes e criação de políticas de segurança."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "Estácio",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Centro de Monitoramento",
+        "link": "https://example.com/projeto58",
+        "descricao": "Painel para acompanhamento de alertas de segurança."
+      }
+    ],
+    "certificacoes": ["CompTIA Security+"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["IA ética", "Futuro do trabalho"],
+    "email": "matheus.cardoso@futurework.dev"
+  },
+  {
+    "id": 59,
+    "nome": "Rafaela Cardim",
+    "foto": "https://randomuser.me/api/portraits/women/34.jpg",
+    "cargo": "Cientista de Dados Júnior",
+    "resumo": "Analisa dados e experimenta modelos para problemas de negócio.",
+    "localizacao": "Curitiba/PR",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Pandas", "Machine Learning", "SQL"],
+    "softSkills": ["Comunicação", "Organização", "Pensamento crítico"],
+    "experiencias": [
+      {
+        "empresa": "DataJunior",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-03",
+        "fim": "",
+        "descricao": "Criação de relatórios e protótipos de modelos preditivos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência de Dados",
+        "instituicao": "UTFPR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Análise de Churn",
+        "link": "https://example.com/projeto59",
+        "descricao": "Estudo de cancelamento de clientes com dados históricos."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areaInteresses": ["Economia verde", "IA ética"],
+    "email": "rafaela.cardim@futurework.dev"
+  },
+  {
+    "id": 60,
+    "nome": "Diego Nogueira",
+    "foto": "https://randomuser.me/api/portraits/men/77.jpg",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Cria aplicativos híbridos focados em experiência simples e objetiva.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React Native", "JavaScript", "TypeScript", "Expo"],
+    "softSkills": ["Organização", "Colaboração", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "AppMakers",
+        "cargo": "Mobile Developer",
+        "inicio": "2021-05",
+        "fim": "",
+        "descricao": "Desenvolvimento de aplicativos para diferentes setores."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Rotina Saudável",
+        "link": "https://example.com/projeto60",
+        "descricao": "Aplicativo para acompanhar hábitos e bem-estar diário."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Educação contínua", "Futuro do trabalho"],
+    "email": "diego.nogueira@futurework.dev"
+  }
+]
+
+
+
