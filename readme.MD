@@ -15,3 +15,10 @@ A *Future Work Network* é uma Single Page Application (SPA) que apresenta uma l
 - Filtrar por **área**, **cidade** ou **tecnologia**
 - Navegar em um layout **responsivo**, com **Dark Mode**
 - Consumir dados de um **JSON local** com pelo menos 60 perfis
+
+## Como executar o projeto
+
+### 1. Pré-requisitos
+
+- Node.js instalado (versão 18+ recomendada)
+- Gerenciador de pacotes npm (já vem com o Node)
