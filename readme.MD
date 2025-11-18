@@ -37,3 +37,12 @@ npm run dev
 ```
 
 O Vite mostrará no terminal o endereço local (geralmente `http://localhost:5173`).
+
+### 4. Build para produção
+
+```bash
+npm run build
+npm run preview
+```
+
+---
