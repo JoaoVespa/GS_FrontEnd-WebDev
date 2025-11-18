@@ -74,10 +74,7 @@ Suba o projeto em uma plataforma como **Vercel** ou similar e coloque aqui o lin
 
 ## Repositório
 
-Crie um repositório no GitHub e faça pelo menos **10 commits** mostrando a evolução do projeto.
-
-- **Link do repositório:** _adicione aqui depois de criar o repo_
-
+https://github.com/JoaoVespa/GS_FrontEnd-WebDev.git
 ---
 
 ## Integrante(s)
