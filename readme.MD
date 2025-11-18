@@ -59,3 +59,30 @@ npm run preview
 - `src/components/Header.jsx` e `Footer.jsx` — cabeçalho e rodapé
 
 ---
+
+## Usuários e senhas
+
+A aplicação não possui autenticação real. Todos os perfis são fictícios e exibidos diretamente a partir do JSON local.
+
+---
+
+## Deploy
+
+Suba o projeto em uma plataforma como **Vercel** ou similar e coloque aqui o link final:
+
+- **Link do deploy:** _adicione aqui depois de publicar_
+
+## Repositório
+
+Crie um repositório no GitHub e faça pelo menos **10 commits** mostrando a evolução do projeto.
+
+- **Link do repositório:** _adicione aqui depois de criar o repo_
+
+---
+
+## Integrante(s)
+
+- João Marcelo Diniz Vespa - RM 564038
+- Pedro Henrique da Silva - RM 566235
+- William Queiroz de Araujo - RM 565032
+
