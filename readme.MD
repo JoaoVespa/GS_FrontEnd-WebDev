@@ -22,3 +22,11 @@ A *Future Work Network* é uma Single Page Application (SPA) que apresenta uma l
 
 - Node.js instalado (versão 18+ recomendada)
 - Gerenciador de pacotes npm (já vem com o Node)
+
+### 2. Instalação das dependências
+
+No terminal, dentro da pasta do projeto:
+
+```bash
+npm install
+```
