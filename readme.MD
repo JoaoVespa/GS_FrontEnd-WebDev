@@ -68,9 +68,7 @@ A aplicação não possui autenticação real. Todos os perfis são fictícios e
 
 ## Deploy
 
-Suba o projeto em uma plataforma como **Vercel** ou similar e coloque aqui o link final:
-
-- **Link do deploy:** _adicione aqui depois de publicar_
+https://gs-front-end-web-dev-2rhg.vercel.app/
 
 ## Repositório
 
